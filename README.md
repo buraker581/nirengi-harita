@@ -1,6 +1,6 @@
-# Kerteriz Türkiye haritası
+# Nirengi Türkiye haritası
 
-Kerteriz çevrimdışı navigasyon uygulaması için ücretsiz Türkiye harita ve yükseklik dosyaları.
+Nirengi çevrimdışı navigasyon uygulaması için ücretsiz Türkiye harita ve yükseklik dosyaları.
 Dosyalar **Releases** bölümünde.
 
 | Dosya | Boyut | Ne işe yarar |
@@ -10,7 +10,7 @@ Dosyalar **Releases** bölümünde.
 
 ## Kurulum
 1. İki dosyayı Releases'ten telefona indir.
-2. Kerteriz → Menü → Haritalar → dosyayı seç.
+2. Nirengi → Menü → Haritalar → dosyayı seç.
 
 ## Kaynak ve lisans
 - Harita verisi: © [OpenStreetMap](https://www.openstreetmap.org/copyright) katkıcıları, [ODbL 1.0](https://opendatacommons.org/licenses/odbl/) lisansıyla. Türkiye kesiti [Protomaps](https://protomaps.com) günlük derlemesinden alındı.
